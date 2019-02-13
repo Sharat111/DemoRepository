@@ -8,5 +8,9 @@ public class BrowsePage {
 	public void browsepage(){
 		System.out.println("browsepage");
 	}
+		@Test
+		public void BranchMethod(){
+			System.out.println("BranchMethod");
+	}
 
 }
